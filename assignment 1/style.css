@@ -1,0 +1,45 @@
+/* Page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling */
+.container {
+    margin-top: 150px;
+    background-color: white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+/* Heading */
+h1 {
+    color: darkblue;
+}
+
+/* Paragraph */
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+/* Button */
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
